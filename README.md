@@ -21,4 +21,4 @@ This project was created to practice basic front-end development skills such as 
 
 ## Author
 
-Created by **[Your Name]**
+Created by **[Kishore]**
